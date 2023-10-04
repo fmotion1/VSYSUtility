@@ -76,7 +76,10 @@
                         'Convert-HtmlColorToRgb',
                         'Format-FileSizeBytesToAuto',
                         'Format-SortNumerical',
-                        'Format-FileSizeUnits'
+                        'Format-FileSizeUnits',
+                        'Invoke-Admin',
+                        'Get-AllVariablesWithPrefix',
+                        'Compare-TwoDates'
 
     PrivateData = @{
         PSData = @{
