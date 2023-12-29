@@ -1,0 +1,13 @@
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.csproj.AssemblyReference.cache
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.AssemblyInfoInputs.cache
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.AssemblyInfo.cs
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.csproj.CoreCompileInputs.cache
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.sourcelink.json
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\bin\Debug\net6.0\VSYSSystemStructs.deps.json
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\bin\Debug\net6.0\VSYSSystemStructs.dll
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\bin\Debug\net6.0\VSYSSystemStructs.pdb
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.dll
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\refint\VSYSSystemStructs.dll
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\VSYSSystemStructs.pdb
+D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\obj\Debug\net6.0\ref\VSYSSystemStructs.dll

@@ -12,7 +12,7 @@
     property (Whether the URL is valid).
 
     The main validation RegEx contained within this file is a PowerShell
-    port of Diego Perini's original URL Validation RegEx: 
+    port of Diego Perini's original URL Validation RegEx:
     https://gist.github.com/dperini/729294
 
 .PARAMETER URL
@@ -67,7 +67,7 @@
 
 .LINK
     Confirm-ValidWindowsPath
-    
+
 #>
 function Confirm-ValidURL {
 
@@ -75,8 +75,8 @@ function Confirm-ValidURL {
     param (
         [parameter(
             Mandatory,
-            Position = 0, 
-            ValueFromPipelineByPropertyName, 
+            Position = 0,
+            ValueFromPipelineByPropertyName,
             ValueFromPipeline
         )]
         [Alias("website","address", "location")]
@@ -135,9 +135,9 @@ function Confirm-ValidURL {
         # resource path (optional)
         "(?:[/?#]\S*)?" +
         "$"
-        
-        $RegexOptions  = [Text.RegularExpressions.RegexOptions]'IgnoreCase, CultureInvariant'
-    
+
+        $RegexOptions = [Text.RegularExpressions.RegexOptions]'IgnoreCase, CultureInvariant'
+
     }
 
     process {
@@ -153,8 +153,8 @@ function Confirm-ValidURL {
         }
     }
 }
- 
-<# 
+
+<#
 [string[]]$URLsNormal = @(
     "www.google.com"
     "github.com/PowerShell/PowerShell"

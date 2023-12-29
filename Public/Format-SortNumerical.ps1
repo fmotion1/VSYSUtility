@@ -3,7 +3,7 @@ function Format-SortNumerical {
     Param(
         [Parameter(Mandatory, ValueFromPipeline, ValueFromPipelineByPropertyName)]
         [System.Object[]]
-        $Input,
+        $InputObject,
         
         [Parameter(Mandatory=$false, ValueFromPipelineByPropertyName)]
         [ValidateRange(2, 100)]

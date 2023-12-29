@@ -12,7 +12,7 @@
     Description = 'Provides miscellaneous helper functions.'
     PowerShellVersion = '7.0'
 
-    RequiredModules = @('BurntToast')
+    RequiredModules = @('BurntToast','gsudoModule')
     RequiredAssemblies = @('System.Drawing', 'System.Windows.Forms')
     CmdletsToExport = @()
     VariablesToExport = '*'
@@ -79,7 +79,10 @@
                         'Format-FileSizeUnits',
                         'Invoke-Admin',
                         'Get-AllVariablesWithPrefix',
-                        'Compare-TwoDates'
+                        'Compare-TwoDates',
+                        'Get-ModulePrivateFunctions',
+                        'Get-ShortcutsInFolder',
+                        'Test-EmptyDirectory'
 
     PrivateData = @{
         PSData = @{

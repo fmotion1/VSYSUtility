@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAzfwKQGdnN9MJINGjHEiL6jO0CEb0Qjh11L76A6V2cmyxCK30GIAjhfadOHe0bNt46W2Y7vRf5sn17eIh5+bA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Powershell\\VSYSModules\\VSYSUtility\\src\\VSYSSystemStructs\\VSYSSystemStructs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\futur\\.nuget\\packages\\powershellstandard.library\\5.1.1\\powershellstandard.library.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
