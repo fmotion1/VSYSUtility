@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VSYSSystemStructs
-build_property.ProjectDir = D:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\
+build_property.ProjectDir = d:\Dev\Powershell\VSYSModules\VSYSUtility\src\VSYSSystemStructs\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
